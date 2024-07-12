@@ -3,7 +3,7 @@ This is fun token of Asako(https://x.com/KIRINLEMON8888).
 ASA　is undisclosed community driven project. The token has been created by Kurochan_39.
 It has limited utility within undisclosed community.
 It is upto community members if we will expand it globally.
-Now door is opened. Let's go to the MOON togather!
+Now door is opened. Let's go to the MOON together!
 
 current utility of coin is; 
 
