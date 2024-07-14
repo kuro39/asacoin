@@ -7,7 +7,11 @@ Now door is opened. Let's go to the MOON together!
 
 current utility of coin is; 
 
-1 coin = 1 asako punch
+1 coin = 1 asako punch👊
+100 coin = 1 asako underwear
+999 coin = 1 asako kick
+when token Burn = doubling power of punch and kick
+when token MINT =　halving power of punch and kick
 
 このトークンは、あさこファントークンです。（https://x.com/KIRINLEMON8888）
 ASAプロジェクトは、限られたコミュニティ主導で、トークンはKurochan_39によって作成されました。
@@ -18,3 +22,7 @@ ASAプロジェクトは、限られたコミュニティ主導で、トーク�
 現在のコインのユーティリティは、
 
 1 coin = 1 あさこパン👊
+100 coin = あさこパンツ
+999 coin = あさこキック
+トークンバーン = 威力倍増
+トークンミント = 威力半減
